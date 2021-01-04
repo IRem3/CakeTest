@@ -2,7 +2,7 @@
  {
    "name": "Slagroomtaart",
    "category": "Taart",
-   "baketime": 120,
+   "baketime": "120 min",
    "expert": "Medium",
    "id": 1002,
    "isNew": false,
