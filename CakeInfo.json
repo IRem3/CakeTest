@@ -1,7 +1,7 @@
 [
  {
    "name": "Boterkoek",
-   "category": "!Nieuw",
+   "category": "Koek",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1002,
@@ -14,7 +14,7 @@
  },
  {
    "name": "Marmercake",
-   "category": "Cake",
+   "category": "!Nieuw",
    "baketime": "30 min",
    "expert": "Easy",
    "id": 1008,
