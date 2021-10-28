@@ -14,7 +14,7 @@
  },
  {
    "name": "Tiramisukoek",
-   "category": "!Nieuw",
+   "category": "Koek",
    "baketime": "100 min",
    "expert": "Medium",
    "id": 1020,
@@ -51,17 +51,43 @@
    "ingredients": "Sloffenbodem:\n- 90 gram ongezouten roomboter\n- 75 gram witte basterdsuiker\n- 1/2 ei\n- snuf zout\n- 140 gram bloem\n- 1 tl bakpoeder\n\rAmandelspijs:\n- 50 gram amandelmeel\n- 50 gram kristalsuiker\n- 1/2 ei\n\rAardbeienbavarois:\n- 200 gram (bevroren) aardbeien\n- 200 ml slagroom\n- 50 gram kristalsuiker\n- 3 blaadjes gelatine\n\rGarnering:\n- 100 ml slagroom\n- 1,5 el kristalsuiker\n- 200 gram aardbeien\n- chocolaatjes",
    "recipe": "1. Meng voor het sloffendeeg de ongezouten roomboter, witte basterdsuiker, het halve ei en een snuf zout tot een romig mengsel.\n2. Voeg de bloem en het bakpoeder hieraan toe en meng dit tot een mooi deeg.\n3. Laat het deeg (verpakt in huishoudfolie) minimaal een uur in de koelkast rusten.\n4. Meng voor de amandelspijs het amandelmeel, 50 gram kristalsuiker en een half ei met elkaar.\n5. Kneed het geheel tot een bol, verpak het in huishoudfolie en plaats het in de koelkast.\n6. Week de blaadjes gelatine 10 minuten in koud water.\n7. Pureer 200 gram (bevroren) aardbeien.\n8. Klop 200 ml slagroom en 50 gram kristalsuiker tot yoghurtdikte.\n9. Verwarm 4 el gepureerde aardbeien in een steelpan.\n10. Knijp de gelatineblaadjes uit en los ze op in de warme aardbeienpuree.\n11. Voeg de warme puree toe aan de overgebleven koude aardbeienpuree.\n12. Spatel de aardbeienpuree door de slagroom.\n13. Vul een spuitzak met de aardbeienbavarois en plaats het minimaal 2 uur in de koelkast.\n14. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n15. Haal het deeg en de amandelspijs na 60 minuten uit de koelkast.\n16. Leg het deeg op bakpapier, bestrooi het met wat bloem en rol het uit, totdat het in de sloffenring past.\n17. Steek met de sloffenring de sloffenbodem uit het deeg en verwijder het overgebleven deeg.\n18. Verdeel de amandelspijs over de bodem (indien nodig wat extra ei toevoegen) en houd 1 cm van de rand vrij.\n19. Bak de slof 22 minuten in de voorverwarmde oven goudbruin.\n20. Verwijder de sloffenring en laat de slof volledig afkoelen.\n21. Klop 100 ml slagroom samen met 1,5 el kristalsuiker stijf.\n22. Spuit de aardbeienbavarois op de slof.\n23. Decoreer de slof met (stukjes) aardbeien, slagroom en chocolaatjes."
  },
-  {
-   "name": "Aardbei bavarois slof",
-   "category": "Cake",
-   "baketime": "120 min",
+ {
+   "name": "Snickerstaart",
+   "category": "Taart",
+   "baketime": "60 min",
    "expert": "Medium",
-   "id": 1022,
+   "id": 1023,
    "isNew": false,
    "isFavorite": false,
    "pieces": "1 stuk",
-   "imageName": "aardbeibavaroisslof",
-   "ingredients": "Sloffenbodem:\n- 90 gram ongezouten roomboter\n- 75 gram witte basterdsuiker\n- 1/2 ei\n- snuf zout\n- 140 gram bloem\n- 1 tl bakpoeder\n\rAmandelspijs:\n- 50 gram amandelmeel\n- 50 gram kristalsuiker\n- 1/2 ei\n\rAardbeienbavarois:\n- 200 gram (bevroren) aardbeien\n- 200 ml slagroom\n- 50 gram kristalsuiker\n- 3 blaadjes gelatine\n\rGarnering:\n- 100 ml slagroom\n- 1,5 el kristalsuiker\n- 200 gram aardbeien\n- chocolaatjes",
-   "recipe": "1. Meng voor het sloffendeeg de ongezouten roomboter, witte basterdsuiker, het halve ei en een snuf zout tot een romig mengsel.\n2. Voeg de bloem en het bakpoeder hieraan toe en meng dit tot een mooi deeg.\n3. Laat het deeg (verpakt in huishoudfolie) minimaal een uur in de koelkast rusten.\n4. Meng voor de amandelspijs het amandelmeel, 50 gram kristalsuiker en een half ei met elkaar.\n5. Kneed het geheel tot een bol, verpak het in huishoudfolie en plaats het in de koelkast.\n6. Week de blaadjes gelatine 10 minuten in koud water.\n7. Pureer 200 gram (bevroren) aardbeien.\n8. Klop 200 ml slagroom en 50 gram kristalsuiker tot yoghurtdikte.\n9. Verwarm 4 el gepureerde aardbeien in een steelpan.\n10. Knijp de gelatineblaadjes uit en los ze op in de warme aardbeienpuree.\n11. Voeg de warme puree toe aan de overgebleven koude aardbeienpuree.\n12. Spatel de aardbeienpuree door de slagroom.\n13. Vul een spuitzak met de aardbeienbavarois en plaats het minimaal 2 uur in de koelkast.\n14. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n15. Haal het deeg en de amandelspijs na 60 minuten uit de koelkast.\n16. Leg het deeg op bakpapier, bestrooi het met wat bloem en rol het uit, totdat het in de sloffenring past.\n17. Steek met de sloffenring de sloffenbodem uit het deeg en verwijder het overgebleven deeg.\n18. Verdeel de amandelspijs over de bodem (indien nodig wat extra ei toevoegen) en houd 1 cm van de rand vrij.\n19. Bak de slof 22 minuten in de voorverwarmde oven goudbruin.\n20. Verwijder de sloffenring en laat de slof volledig afkoelen.\n21. Klop 100 ml slagroom samen met 1,5 el kristalsuiker stijf.\n22. Spuit de aardbeienbavarois op de slof.\n23. Decoreer de slof met (stukjes) aardbeien, slagroom en chocolaatjes."
+   "imageName": "snickerstaart",
+   "ingredients": "- 180 gram ongezouten roomboter\n- 55 gram kristalsuiker\n- snuf zout\n- 180 gram zelfrijzend bakmeel\n- 1 blikje gecondenseerde melk (400 gram)\n- 4 el donkerbruine basterdsuiker\n- 150 gram ongezouten pinda�s\n- 200 gram melkchocolade",
+   "recipe": "1. Verwarm de oven voor op 180 graden (onder- en bovenwarmte).\n2. Mix 120 gram ongezouten roomboter, 55 gram kristalsuiker en een snuf zout.\n3. Voeg 180 gram zelfrijzend bakmeel toe, totdat het volledig is opgenomen.\n4. Vet een quichevorm (26 cm doorsnede met een uitneembare bodem) in.\n5. Rol het deeg uit, bekleed te quichevorm hiermee en prik gaatjes in de bodem.\n6. Bak de bodem 20 minuten in de voorverwarmde oven.\n7. Laat de bodem volledig afkoelen.\n8. Maak de dulce de leche door 60 gram ongezouten roomboter in een steelpan te verwarmen.\n9. Meng 4 el donkerbruine basterdsuiker en 1 blikje gecondenseerde melk hier doorheen.\n10. Blijf roeren en breng het geheel aan de kook.\n11. Laat het mengsel 5 minuten doorkoken, totdat de dulce de leche dik genoeg is.\n12. Spatel 150 gram ongezouten pinda�s door de dulce de leche en verdeel dit over de bodem. Houd wel iets over voor de garnering.\n13. Laat de bodem met dulce de leche afkoelen.\n14. Smelt 200 gram melkchocolade en verdeel dit over de dulce de leche.\n15. Garneer de snickerstaart met wat dulce de leche en ongezouten pinda�s.\n16. Laat de taart volledig afkoelen."
+ },
+ {
+   "name": "Aardbeien kwarktaart",
+   "category": "Taart",
+   "baketime": "80 min",
+   "expert": "Medium",
+   "id": 1024,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "1 stuk",
+   "imageName": "aardbeienkwarktaart",
+   "ingredients": "- 3 digestive biscuits (45 gram)\n- 30 gram ongezouten roomboter\n- 2 blaadjes gelatine\n- 200 gram aardbeien\n- 150 gram Franse volle kwark\n- 100 ml slagroom\n- 1 el kristalsuiker\n- 1 tl vanille-extract\n- 30 ml melk",
+   "recipe": "1. Maal de digestive biscuits fijn.\n2. Verwarm de ongezouten roomboter in een steelpan totdat het gesmolten is, voeg de fijn gemalen biscuits hieraan toe en meng het met elkaar.\n3. Bekleed de bodem en ring van een springvorm (12 cm doorsnede) met bakpapier. Tip: vet de ring eerst in en druk het bakpapier hier tegenaan.\n4. Verdeel het biscuitmengsel over de bodem van de springvorm en druk het aan met de bolle kant van de lepel.\n5. Laat het geheel in de koelkast afkoelen.\n6. Laat 2 gelatineblaadjes 10 minuten in koud water weken.\n7. Maal 100 gram aardbeien fijn.\n8. Snijd de overige aardbeien doormidden en plaats ze tegen de ring van de springvorm.\n9. Doe de volle kwark in een kom en klop de slagroom met kristalsuiker en vanille-extract in een andere kom stijf.\n10. Verwarm de melk.\n11. Roer de uitgeknepen gelatineblaadjes hier doorheen en laat het iets afkoelen.\n12. Spatel dit mengsel en de aardbeienpuree door de kwark.\n13. Spatel de opgeklopte slagroom ook door de kwark.\n13. Stort het kwarkmengsel egaal over de bodem van de springvorm en laat het minimaal 3 uur in de koelkast opstijven.\n14. Decoreer de taart eventueel met slagroom."
+ },
+ {
+   "name": "Appelroomcake",
+   "category": "Cake",
+   "baketime": "60 min",
+   "expert": "Medium",
+   "id": 1025,
+   "isNew": false,
+   "isFavorite": false,
+   "pieces": "1 stuk",
+   "imageName": "appelroomcake",
+   "ingredients": "Banketbakkersroom:\n- 22 gram kristalsuiker\n- 6 gram vanillesuiker\n- 1 eidooiers\n- 12 gram bloem\n- 120 ml volle melk\n\rCake:\n- 100 gram ongezouten roomboter\n- 100 gram kristalsuiker\n- 1 zakje vanillesuiker\n- 2 eieren\n- 100 gram zelfrijzend bakmeel\n- snuf zout\n- 1 appel\n\rKruimels:\n- 30 gram ongezouten roomboter\n- 40 gram kristalsuiker\n- 40 gram bloem\n- snuf zout",
+   "recipe": "Opmerking: De banketbakkersroom kan het beste een dag van tevoren worden gemaakt.\n\r1. Mix voor de banketbakkersroom 22 gram kristalsuiker, 6 gram vanillesuiker en 1 eidooier.\n2. Meng hier 12 gram bloem doorheen, totdat het helemaal is opgenomen.\n3. Breng 120 ml volle melk in een steelpan aan de kook.\n4. Voeg, wanneer de melk net kookt, de melk langzaam toe aan het mengsel, totdat de melk volledig is opgenomen.\n5. Giet het mengsel terug in de steelpan en breng het al roerend opnieuw aan de kook.\n6. Blijf roeren en laat het 3 minuten zachtjes doorkoken, totdat het dikker wordt.\n7. Giet de banketbakkersroom in een kom, dek het af met huishoudfolie en laat het volledig afkoelen in de koelkast.\n8. Verwarm de oven voor op 175 graden (onder- en bovenwarmte).\n9. Mix 100 gram ongezouten roomboter, 100 gram suiker en 1 zakje vanillesuiker.\n10. Meng de eieren een voor een door het mengsel, totdat het volledig is opgenomen.\n11. Meng hier 100 gram zelfrijzend bakmeel en een snuf zout door.\n12. Snijd de geschilde appel in kleine stukjes, rol ze in een bakje bloem en spatel ze door het beslag.\n13. Vet een bakvorm (20 x 20 cm) in en bestrooi het met bloem.\n14. Giet het beslag in de cakevorm en verdeel hier de losgeklopte banketbakkersroom overheen.\n15. Meng 30 gram ongezouten roomboter, 40 gram kristalsuiker, 40 gram bloem en een snuf zout met elkaar tot kruimels.\n16. Strooi de kruimels over het cakebeslag en de banketbakkersroom.\n17. Bak de cake 40 minuten in de voorverwarmde oven gaar en goudbruin.\n18. Laat de appelroomcake eerst een aantal minuten afkoelen in de cakevorm, voordat je de cake laat afkoelen op een rooster."
  }
 ]
